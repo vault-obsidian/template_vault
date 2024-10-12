@@ -39,5 +39,14 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }
