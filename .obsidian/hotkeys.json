@@ -48,5 +48,13 @@
       ],
       "key": "B"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
   ]
 }
