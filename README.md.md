@@ -1,1 +1,0 @@
-Plantilla para una vault de Obsidian.

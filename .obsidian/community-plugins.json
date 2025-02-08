@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "dataview",
+  "graph-link-types"
 ]
