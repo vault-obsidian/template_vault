@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -158,5 +159,17 @@
     }
   },
   "active": "62047115f67879e2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "examples/Note3.md",
+    "examples/Note2.md",
+    "/examples/Note3.md",
+    "/examples/Note2.md",
+    "examples/Note1.md",
+    "README.md",
+    "/examples/Note1.md",
+    "/README.md",
+    "README.md.md",
+    "examples",
+    "/examples"
+  ]
 }
