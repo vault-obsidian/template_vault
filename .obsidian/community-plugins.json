@@ -3,5 +3,7 @@
   "obsidian-tasks-plugin",
   "calendar",
   "dataview",
-  "graph-link-types"
+  "graph-link-types",
+  "tasks-cleaner",
+  "editor-width-slider"
 ]
